@@ -1,0 +1,13 @@
+{
+  "name": "scalajs",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Arata Tanaka <tarata43@yahoo.co.jp>",
+  "description": "scala is cool",
+  "dependencies": {
+    "hubot": "^2.18.0",
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
